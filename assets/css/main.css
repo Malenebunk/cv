@@ -3240,11 +3240,11 @@ input, select, textarea {
 		}
 
 		.wrapper.style1 {
-			background-color: #568ed1;
+			background-color: #2361ad;
 		}
 
 		.wrapper.style1-alt {
-			background-color: #3770b0;
+			background-color: #6999d0;
 		}
 
 		.wrapper.style2 {
@@ -3260,7 +3260,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style3-alt {
-			background-color: #568ed1;
+			background-color: #4471a9;
 		}
 
 		.wrapper.fullscreen {
@@ -3857,7 +3857,7 @@ input, select, textarea {
 
 						#sidebar nav a:after {
 							background-image: none;
-							background-color: #9b4eb7;
+							background-color: #b56ecf;
 						}
 
 		}
